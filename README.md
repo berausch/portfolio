@@ -1,6 +1,6 @@
 #_{Brittany Rausch - Portfolio}_
 
-#### _{HTML JS Exercise for Epicodus}, {03.17.2016}_
+#### _{HTML CSS Bootstrap Exercise for Epicodus}, {03.17.2016}_
 
 #### By _**{Brittany Rausch}**_
 
